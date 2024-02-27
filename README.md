@@ -9,7 +9,7 @@ ENG
 ESP
 - 👋 Hola, soy Elías, @EBDev81
 - 👀 Estoy interesado en el desarrollo de aplicaciones, especialmente utilizando Java y Python. Me fascina explorar nuevas tecnologías y frameworks para crear aplicaciones eficientes y escalables. También me apasiona todo lo relacionado con la inteligencia artificial.
-- 🌱 Actualmente estoy aprendiendo a programar en el Bootcamp Aprende a programar desde cero de Keepcoding en los lenguajes de programación python y java. También estoy aprendiendo Inglés de forma autodidacta.
+- 🌱 Actualmente estoy aprendiendo a programar en el Bootcamp Aprende a programar desde cero de Keepcoding en los lenguajes de programación Python y Java. También estoy aprendiendo Inglés de forma autodidacta.
 - 💞️ Estoy buscando colaborar en proyectos open source relacionados con mis estudios y que tengan un impacto social positivo o que promuevan la educación tecnológica.
 - 📫 Cómo contactarme: Puedes enviarme un mensaje a mi correo electrónico ebdev81@gmail.com o conectarte conmigo a través de LinkedIn -> https://www.linkedin.com/in/eliasbarreraaguilar
 - ⚡ Dato curioso: Además de mi pasión por la tecnología, soy instructor de perros de asistencia y educador canino, me encanta el deporte y lo practico activamente!
