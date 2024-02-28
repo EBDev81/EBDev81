@@ -4,7 +4,7 @@ ENG
 
 👋 Hi, I'm Elías
 
-👀 I'm interested in application development, especially using Java and Python. I'm fascinated by exploring new technologies and frameworks to create efficient and scalable applications. I am also passionate about all things Artificial Intelligence.
+👀 I am interested in application development, especially using Java and Python. I'm fascinated by exploring new technologies and frameworks to create efficient and scalable applications. I am also passionate about all things Artificial Intelligence.
 
 🌱 I am currently learning to code at the Keepcoding Bootcamp, which teaches the basics of programming with Python and Java. In parallel, i am learning English on my own to broaden my professional and personal horizons.
 
@@ -12,7 +12,7 @@ ENG
 
 📫 How to contact me: You can send me a message to my email ebdev81@gmail.com or connect with me via LinkedIn -> https://www.linkedin.com/in/eliasbarreraaguilar
 
-⚡Fun fact: In addition to my passion for technology, I am an assistance dog trainer and dog trainer. I love sport and i'm very active!
+⚡Fun fact: In addition to my passion for technology, I'm an assistance dog trainer and dog trainer. I love sport and i'm very active!
 
 ESP
 
