@@ -1,5 +1,3 @@
-Public profile / Perfil público
-
 ENG
 
 👋 Hi, I'm Elías
