@@ -4,7 +4,7 @@ ENG
 
 👀 I am interested in application development, especially using Java and Python. I'm fascinated by exploring new technologies and frameworks to create efficient and scalable applications. I am also passionate about all things Artificial Intelligence.
 
-🌱 I am currently learning to code at the Keepcoding Bootcamp, which teaches the basics of programming with Python and Java. In parallel, i am learning English on my own to broaden my professional and personal horizons.
+🌱 I am currently learning to code at the Keepcoding Bootcamp, which teaches the basics of programming with Java and Python. In parallel, i am learning English on my own to broaden my professional and personal horizons.
 
 💞️ I am looking to work on projects related to my studies, I would like them to have a positive social impact or promote environmental sustainability, but I am open to any interesting project.
 
@@ -18,7 +18,7 @@ ESP
 
 👀 Estoy interesado en el desarrollo de aplicaciones, especialmente utilizando Java y Python. Me fascina explorar nuevas tecnologías y frameworks para crear aplicaciones eficientes y escalables. También me apasiona todo lo relacionado con la inteligencia artificial.
 
-🌱 Actualmente estoy aprendiendo a programar en el Bootcamp Aprende a programar desde cero de Keepcoding en los lenguajes de programación Python y Java. Paralelamente, estoy aprendiendo inglés por mi cuenta para ampliar mis horizontes profesionales y personales.
+🌱 Actualmente estoy aprendiendo a programar en el Bootcamp Aprende a programar desde cero de Keepcoding en los lenguajes de programación Java y Python. Paralelamente, estoy aprendiendo inglés por mi cuenta para ampliar mis horizontes profesionales y personales.
 
 💞️ Estoy buscando colaborar en proyectos relacionados con mis estudios, me encantaría que tengan un impacto social positivo o que fomenten la sostenibilidad ambiental pero estoy abierto a cualquier proyecto interesante.
 
