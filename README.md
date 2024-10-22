@@ -10,7 +10,10 @@ ENG
 
 📫 How to contact me: You can send me a message to my email ebdev81@gmail.com or connect with me via LinkedIn -> https://www.linkedin.com/in/eliasbarreraaguilar
 
+ℹ️ More info: https://elias-barrera.my.canva.site
+
 ⚡Fun fact: In addition to my passion for technology, I'm an assistance dog trainer and dog trainer. I love sport and i'm very active!
+
 
 ESP
 
@@ -23,5 +26,7 @@ ESP
 💞️ Estoy buscando colaborar en proyectos relacionados con mis estudios, me encantaría que tengan un impacto social positivo o que fomenten la sostenibilidad ambiental pero estoy abierto a cualquier proyecto interesante.
 
 📫 Cómo contactarme: Puedes enviarme un mensaje a mi correo electrónico ebdev81@gmail.com o conectarte conmigo a través de LinkedIn -> https://www.linkedin.com/in/eliasbarreraaguilar
+
+ℹ️ Mas info: https://elias-barrera.my.canva.site
 
 ⚡ Dato curioso: Además de mi pasión por la tecnología, soy instructor de perros de asistencia y educador canino, me encanta el deporte y lo practico activamente!
