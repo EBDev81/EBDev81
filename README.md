@@ -21,7 +21,8 @@ ESP
 
 👀 Estoy interesado en el desarrollo de aplicaciones, especialmente utilizando Java y Python. Me fascina explorar nuevas tecnologías y frameworks para crear aplicaciones eficientes y escalables. También me apasiona todo lo relacionado con la inteligencia artificial.
 
-🌱 Acabo de finalizar el Bootcamp "Aprende a programar desde cero" de Keepcoding en los lenguajes de programación Java, Kotlin y Python. Paralelamente, estoy aprendiendo Kotlin y lógica de programación, también estoy estudiando inglés por mi cuenta para ampliar mis horizontes profesionales y personales.
+🌱 I continue to train in #Java, and I am also learning to use #VisualStudioCode, #Springboot, #Git, #GitHub, and a long list of other technologies. At the same time, I am learning Kotlin and programming logic, and I am also studying English on my own to broaden my professional and personal horizons.
+
 💞️ Estoy buscando colaborar en proyectos relacionados con mis estudios, me encantaría que tengan un impacto social positivo o que fomenten la sostenibilidad ambiental pero estoy abierto a cualquier proyecto interesante.
 
 📫 Cómo contactarme: Puedes enviarme un mensaje a mi correo electrónico ebdev81@gmail.com o conectarte conmigo a través de LinkedIn -> https://www.linkedin.com/in/eliasbarreraaguilar
